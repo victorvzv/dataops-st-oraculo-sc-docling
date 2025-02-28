@@ -1,4 +1,9 @@
-venv
+venv/
+.venv/
 .env
-__pycache__
-.git
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+.git/
