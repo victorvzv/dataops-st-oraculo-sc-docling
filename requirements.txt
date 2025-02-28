@@ -1,0 +1,14 @@
+streamlit
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain-chroma
+python-dotenv
+docling
+openai
+chromadb
+docling_core[chunking]
+langchain-community
+langchain-docling
+# c++ > 14
+#     pip install docling docling-core python-dotenv langchain-text-splitters langchain openai chromadb langchain_core docling_core[chunking] langchain-openai langchain-community langchain-docling langchain_chroma streamlit

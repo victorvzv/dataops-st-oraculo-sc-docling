@@ -1,0 +1,122 @@
+﻿Concorrentes da Disparo Pro (atualização do 1 semestre/2024)
+ASSERTIVA
+É uma plataforma que auxilia na cobrança das empresas. Tem muitas funções, como limpeza e atualização de dados dos clientes. 
+
+
+* Na parte de SMS
+DIFERENCIAIS
+* Enriquecimento e higienização de base de dados vinculados ao envio de SMS
+* Encurtador e trackeador de links
+* Integração das consultas cadastrais com a sua operação
+* Análise de performance e otimização de mensagens
+* Ligações de dentro da plataforma após a interação
+* Traqueamento de link e cliques
+* Acompanhamento de respostas
+
+
+Tem muitas funcionalidades parecidas com as da Disparo Pro.
+Pelo que o lead “Acerta Promotora” me passou, cobram cerca de R$0,055 por SMS, e também cobram por outras coisas na solução a parte.
+
+
+Não tem a opção de mandar SMS grande sem “quebrar”/virarem 2
+
+
+* Outros diferenciais e serviços
+* plataforma para encontrar dados de pessoas por CPF ou CNPJ 9telefone, e-mail, etc.)
+* Plataforma para cobrança e organização de dados dos clientes (Acredito que seja um CRM)
+* Local para fazer assinatura eletrônica
+* 
+
+
+
+ZENVIA
+* Na parte de SMS
+DIFERENCIAIS
+* Não tem fidelidade, mas o pagamento é recorrente, como assinatura de netflix
+* Recarga mínima de 500 SMS (R$0,11)
+* Dá dados relacionados a interação do cliente com os envios
+* Insights para otimizar os disparos e melhorar o engajamento
+* A partir de 100k SMS é mais barata que a gente
+
+
+* Na parte de VOZ
+DIFERENCIAIS
+* Minutagem diferente para fixo e móvel, sendo móvel inicialmente mais cara que a nossa (0,35 por minuto)
+* Integra via API
+
+
+* Outros diferenciais e serviços
+* Já tem serviço de mensagem RCS 
+* Webchat 
+* E-mail
+* Whatsapp
+
+
+
+
+ALLCANCE
+É concorrente direto na rota BET. Tem alguns serviços iguais e outros mais aprimorados que os nossos
+* Na parte de SMS
+DIFERENCIAIS
+* Tem SMS Flash
+
+
+O resto é igual a nossa (rastreamento de clicks, API, lista negra, auto resposta, relatório, agendamento de disparo)
+
+
+* Na parte de VOZ
+Muito parecida a nossa. Também é possível responder o torpedo e interagir com ele, bina local, tarifa apenas as atendidas.
+
+
+* Na parte de Whatsapp
+DIFERENCIAIS
+* Texto simples
+* Texto com imagem
+* número disponibilizado pela Allcance
+* Permite disparo de voz interativo e automático
+* O whats interativo pode ser integrado com outras funções como SMS e autoresposta. 
+
+
+* Forma de pagamento
+* Não tem fidelidade. Pré paga como a nossa.
+
+
+
+
+
+
+
+
+
+
+LocaSMS (Loca Plataforma)
+* Na parte de sms
+* Tem teste de R$10 gratuito
+* Colocam no painel do site que as mensagens são a partir de R$0,04
+* Painel parece ser muito similar ao nosso
+* Ao que parece, o painel para revenda possibilita o pagamento entre o cliente e o cliente do cliente através deles.
+* Pacote mínimo de 5 mil SMS (no valor de R$150)
+* Deixam explicito no site que tem rotas diferentes para SMS e qual a diferença entre elas 
+* Pode ser enviado através de shortcode ou longcode
+
+
+OBS: cliente me falou que pagava R$0,06 com eles com uma recarga de R$1.500. Ele também disse que o pagamento é pré pago e sem fidelidade
+
+
+* Na parte da voz
+* Não tem muita informação sobre além da descrição.
+
+
+
+
+Comtele
+É uma empresa que tem apenas o produto de SMS. Esse é um ponto fraco deles.
+
+
+* Na parte de SMS
+* Créditos não expiram
+* Não fazem contrato
+* Dão R$10 de crédito gratuito para teste
+*  Tem integração API
+* Preços são mais altos que os nossos (R$ 0,10 para 500 SMS; R$0,09 para 1.000 SMS; R$0,08 para 2.500 SMS; R$0,075 para 5.000 SMS. R$0,07 para 10.000 SMS)
+* Aceitam pagamento com cartão, boleto e pix
