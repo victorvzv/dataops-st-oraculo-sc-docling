@@ -5,3 +5,9 @@ C:\Users\victor_ativos\Documents\Docling\rags\Manual_Disparo.docx
 C:\Users\victor_ativos\Documents\Docling\rags\Passo a passo como disparar campanhas.docx
 C:\Users\victor_ativos\Documents\Docling\rags\Tarifação do SMS.docx
 C:\Users\victor_ativos\Documents\Docling\rags\TARIFA SMS DEFAULT (1).csv
+C:\Users\victor_ativos\Documents\RAG_Docling_final\rags\Como fazer uma recarga na Disparo Pro.docx
+C:\Users\victor_ativos\Documents\RAG_Docling_final\rags\Manual_Disparo.docx
+C:\Users\victor_ativos\Documents\RAG_Docling_final\rags\Passo a passo como disparar campanhas.docx
+C:\Users\victor_ativos\Documents\RAG_Docling_final\rags\Tarifação do SMS.docx
+C:\Users\victor_ativos\Documents\RAG_Docling_final\rags\Diferenças dos Concorrentes da Disparo Pro.txt
+C:\Users\victor_ativos\Documents\RAG_Docling_final\rags\Matriz de Objeções.xlsx
